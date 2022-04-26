@@ -1,7 +1,6 @@
 # cpe49-1星題 
 
-![未命名](https://user-images.githubusercontent.com/74231280/165333504-743c573d-efc5-4574-a3e2-d0c1e483719d.png)
-
+![未命名](https://user-images.githubusercontent.com/74231280/165333778-370dd38e-1ce5-4afe-8ebf-48b5e99beb30.png)
 
 ## 10041 Vito’s family
 
