@@ -110,7 +110,7 @@
 
 ### 解法
 ```
-計算 a 及 b 之平方數，並相減算出其個數
+ans=(int)√b-(int)√(a-1)
 ```
 
 ## 10071 Back to High School Physics
